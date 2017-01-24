@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PlayStringNumbers</string>
+    <string name="fizzbuzz">Fizz Buzz</string>
+    <string name="findnumber">Find The Number</string>
+    <string name="gamethree">Game of Three</string>
+    <string name="start">Start Number</string>
+    <string name="end">End Number</string>
+    <string name="checkFizz">Check Fizz Buzz</string>
+    <string name="checkNumber">Check Fizz Buzz</string>
+    <string name="endRange">End Range</string>
+    <string name="index">Index Find</string>
+    <string name="number">Enter Number</string>
+    <string name="game">Game of Three</string>
+</resources>
